@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.blueroomxyz.recyclerview"
+    namespace = "com.example.recyclerview"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.blueroomxyz.recyclerview"
+        applicationId = "com.example.recyclerview"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

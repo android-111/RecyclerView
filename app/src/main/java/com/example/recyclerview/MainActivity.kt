@@ -1,9 +1,9 @@
-package com.blueroomxyz.recyclerview
+package com.example.recyclerview
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.blueroomxyz.recyclerview.databinding.ActivityMainBinding
+import com.example.recyclerview.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

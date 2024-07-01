@@ -1,4 +1,4 @@
-package com.blueroomxyz.recyclerview
+package com.example.recyclerview
 
 import org.junit.Test
 

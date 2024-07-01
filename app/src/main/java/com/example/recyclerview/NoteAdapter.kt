@@ -1,10 +1,10 @@
-package com.blueroomxyz.recyclerview
+package com.example.recyclerview
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.blueroomxyz.recyclerview.databinding.NoteDesignRvBinding
+import com.example.recyclerview.databinding.NoteDesignRvBinding
 
 class NoteAdapter(private val list: MutableList<Note>, private val context: Context):RecyclerView.Adapter<NoteAdapter.ViewHolder>(){
 
